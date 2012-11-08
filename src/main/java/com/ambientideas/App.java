@@ -5,7 +5,7 @@ package com.ambientideas;
  * Hello world!
  * Hello
  */
-//public class App 
+public class App 
 {
     public static void main( String[] args )
     {
